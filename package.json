@@ -1,0 +1,10 @@
+{
+  "name": "kingfisher/kirbylightbox",
+  "description": "Kirbytag for lightbox",
+  "author": "Jermaine van Wijhe <jermaine@kingfisher.nl>",
+  "version": "1.0.0",
+  "license": "GNU GPLv3",
+  "autoload": {
+    "files": ["config.php"],
+  }
+}
